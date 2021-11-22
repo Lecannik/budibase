@@ -9,5 +9,5 @@ client: MPLv2.0
 You can consider Budibase to be GPLv3 licensed.
 
 
-test
+test2
 The apps that you build with Budibase do not fall under GPLv3 - hence why our components and client library are licensed differently.
